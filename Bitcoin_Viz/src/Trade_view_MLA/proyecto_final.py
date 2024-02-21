@@ -4,8 +4,6 @@ archivo_requirements = "Bitcoin_Viz/requirements.txt"
 subprocess.call(['pip', 'install', '-r', archivo_requirements])
 import pandas as pd
 import streamlit as st
-import krakenex
-import datetime
 from bokeh.plotting import figure, column
 from bokeh.models import NumeralTickFormatter
 import unittest
@@ -199,6 +197,9 @@ class App():
 
 
 if __name__=='__main__':
+    archivo_requirements = "Bitcoin_Viz/requirements.txt"
+    # Ejecuta el comando pip para instalar los paquetes del archivo requirements.txt
+    subprocess.call(['pip', 'install', '-r', archivo_requirements])
     app=App()
     app.run()
     
