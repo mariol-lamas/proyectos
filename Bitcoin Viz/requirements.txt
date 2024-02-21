@@ -1,0 +1,6 @@
+bokeh==2.4.3
+krakenex==2.1.0
+numpy==1.26.1
+pandas==2.1.1
+streamlit==1.27.2
+requests
