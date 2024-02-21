@@ -47,7 +47,7 @@ class App():
             intervalo = st.selectbox(
                     'Intervalo',
                     ('1m', '15m', '30m','1h','24h'),
-                    index=0)
+                    index=1)
             indicadores = st.multiselect(
                     'Indicadores',
                     ['VWAP', 'STOCH', 'BANDS'],
