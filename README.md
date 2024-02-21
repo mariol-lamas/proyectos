@@ -11,7 +11,7 @@ El repositorio está organizado en subdirectorios correspondientes a cada proyec
 - **Gorrion**: Software de reconocimiento de Objetos con UI de Tkinter basado en YOLOV8.
 - **Recon Facial**: Script de reconocimiento facial.
 - **YT Downloader**: Aplicacion de escritorio para la descarga de videos de Youtube mediante su URL.
-- ...
+- **Bitcoin Viz**: Visualizacion de cotizaciones de Bitcoin y Ethereum en web con Streamlit.
 
 ## ¿Cómo Contribuir?
 
