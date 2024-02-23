@@ -12,6 +12,7 @@ El repositorio está organizado en subdirectorios correspondientes a cada proyec
 - **Recon Facial**: Script de reconocimiento facial.
 - **YT Downloader**: Aplicacion de escritorio para la descarga de videos de Youtube mediante su URL.
 - **Bitcoin Viz**: Visualizacion de cotizaciones de Bitcoin y Ethereum en web con Streamlit.
+- **Error Lookup**: Busqueda de errores en STACKOVERFLOW / ChatGPT.
 
 ## ¿Cómo Contribuir?
 
