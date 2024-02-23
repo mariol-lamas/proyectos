@@ -1,0 +1,2 @@
+# **ERROR LOOKUP ON STACKOVERFLOW**
+Este proyecto permite la busqueda de errores de ejecucion de codigo en stackoverflow, además, se proporciona el codigo para introduciendo unas credenciales, logearse en ChatGPT y recuperar su respuesta.
