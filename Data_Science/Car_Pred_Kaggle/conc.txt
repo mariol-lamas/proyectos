@@ -1,0 +1,11 @@
+Conclusiones del EDA
+---
+
+
+- Eliminar Wheel (solo hay 1 categoria)
+- Hay que convertir running a km y numerico
+- Color tiene demasiadas categorias hay que quitarlo
+- Price tiene outliers
+- running tiene outliers
+- running y Year tienen muchas correlacion con Price
+- motor volume no tiene casi correlacion con Price
