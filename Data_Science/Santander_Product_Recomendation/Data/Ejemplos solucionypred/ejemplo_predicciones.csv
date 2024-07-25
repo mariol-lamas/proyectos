@@ -1,0 +1,4 @@
+cod_persona;ind_prod1;ind_prod3;ind_prod4;ind_prod5;ind_prod6;ind_prod7;ind_prod8;ind_prod9;ind_prod10;ind_prod11;ind_prod12;ind_prod13;ind_prod14;ind_prod15;ind_prod16;ind_prod17;ind_prod18;ind_prod19;ind_prod20;ind_prod21;ind_prod22;ind_prod23;ind_prod24;ind_prod25;predicted
+1;0.0;0.0;0.0;0.6;0.0;0.0;0.0;0.0;0.0;0.8;0.0;0.0;0.004;0.0;0.0;0.0;0.0;0.4;0.0;0.0;0.0;0.0;0.0;0.0;"['ind_prod11'; 'ind_prod5'; 'ind_prod19']"
+2;0.0;0.9;0.0;0.0;0.0;0.0;0.7;0.0;0.0;0.0;0.0;0.003;0.0;0.0;0.001;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;"['ind_prod3'; 'ind_prod8']"
+3;0.0;0.0;0.001;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.002;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;"[]"
