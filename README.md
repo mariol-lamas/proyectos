@@ -14,10 +14,14 @@ El repositorio está organizado en subdirectorios correspondientes a cada proyec
 - **Bitcoin Viz**: Visualizacion de cotizaciones de Bitcoin y Ethereum en web con Streamlit y la API de Kraken.
 - **Error Lookup**: Busqueda de errores en STACKOVERFLOW / ChatGPT.
 - **INE-EUROSTAT Merge**: Data merge y limpieza de datos del IPC.
+
 - Data Science
   - **Car Prediction** : Car prediction Kaggle competition.
   - **Social Network Analysis** : Sistema de recomendacion basado en una base de datos obtenida por WebScrapping de Airbnb.
   - **Santander Product Recomendation** : Sistema de recomendacion de productos del banco Santader.
+
+- Gen AI
+  - **Chatbot Streamlit** : GPT Chatbot based in streamlit webApp.
 
 ## ¿Cómo Contribuir?
 
