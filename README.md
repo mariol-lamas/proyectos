@@ -11,12 +11,13 @@ El repositorio está organizado en subdirectorios correspondientes a cada proyec
 - **Gorrion**: Software de reconocimiento de Objetos con UI de Tkinter basado en YOLOV8.
 - **Recon Facial**: Script de reconocimiento facial.
 - **YT Downloader**: Aplicacion de escritorio para la descarga de videos de Youtube mediante su URL.
-- **Bitcoin Viz**: Visualizacion de cotizaciones de Bitcoin y Ethereum en web con Streamlit.
+- **Bitcoin Viz**: Visualizacion de cotizaciones de Bitcoin y Ethereum en web con Streamlit y la API de Kraken.
 - **Error Lookup**: Busqueda de errores en STACKOVERFLOW / ChatGPT.
 - **INE-EUROSTAT Merge**: Data merge y limpieza de datos del IPC.
 - Data Science
   - **Car Prediction** : Car prediction Kaggle competition.
-  - **Social Network Analysis** : Recomendation system based on a database obtained by WebScrapping from Airbnb.
+  - **Social Network Analysis** : Sistema de recomendacion basado en una base de datos obtenida por WebScrapping de Airbnb.
+  - **Santander Product Recomendation** : Sistema de recomendacion de productos del banco Santader.
 
 ## ¿Cómo Contribuir?
 
