@@ -16,6 +16,7 @@ El repositorio está organizado en subdirectorios correspondientes a cada proyec
 - **INE-EUROSTAT Merge**: Data merge y limpieza de datos del IPC.
 - Data Science
   - **Car Prediction** : Car prediction Kaggle competition.
+  - **Social Network Analysis** : Recomendation system based on a database obtained by WebScrapping from Airbnb.
 
 ## ¿Cómo Contribuir?
 
